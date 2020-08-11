@@ -26,3 +26,6 @@ Give terminal "full disk access" on Mac for py-imessage to work:
 System Preferences -> Security & Privacy -> Privacy -> Full Disk Access -> + -> Click Terminal
 You'll receive this error once you run the final script if you don't: 
 sqlite3.OperationalError: unable to open database file
+
+### Further Questions?
+--> <a href="mailto: rayaan.siddiqi@gmail.com">Email me</a>
